@@ -1,6 +1,7 @@
 ﻿0,SansSweat,0,,,,,,,
 0,CombatZoneResize,238,226,403,391,,,,
 0,HeartTeleport,320,308,,,,,,
+0,HeartMode,0,,,,,,,
 0.6,SET,LOOP,6,,,,,,
 0,:LOOP1,,,,,,,,
 0,RND,BT,4,,,,,,
