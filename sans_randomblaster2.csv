@@ -35,6 +35,8 @@
 0,SUB,A3,$A3,30,,,,,
 0,SUB,LOOP2,$LOOP2,1,,,,,
 0,JMPNZ,LOOP2,$LOOP2,,,,,,
+0,BoneV,112,191,195,0,480,1,,
+0,BoneV,517,191,195,2,480,1,,
 0,SUB,LOOP1,$LOOP1,1,,,,,
 0.8,JMPNZ,LOOP1,$LOOP1,,,,,,
 1.2,EndAttack,,,,,,,,
