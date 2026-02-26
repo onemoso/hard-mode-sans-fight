@@ -132,7 +132,7 @@
 0,BoneStab,3,80,0.4,9,,,,
 0.8,CombatZoneResizeInstant,238,226,403,391,,,,
 0,SansX,320,,,,,,,
-0,SET,LOOP,999,6,,,,,
+0,SET,LOOP,6,,,,,,
 0,:LOOP9,,,,,,,,
 0,BlackScreen,1,,,,,,,
 0,HeartTeleport,320,308,,,,,,
