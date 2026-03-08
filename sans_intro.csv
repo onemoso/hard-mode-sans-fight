@@ -72,7 +72,7 @@
 0,GasterBlaster,1,320,480,320,449,270,0.4,0
 1.2,SansTorso,Default,,,,,,,
 0,HeartMode,0,,,,,,,
-0,SET,LOOP1,240,,,,,,
+0,SET,LOOP1,160,,,,,,
 0,SET,A1,0,,,,,,
 0,:LOOP4,,,,,,,,
 0,SET,LOOP2,4,,,,,,
@@ -98,10 +98,10 @@
 0,GasterBlaster,2,268,0,268,176,90,0.4,0
 0,GasterBlaster,2,640,256,453,256,180,0.4,0
 0,GasterBlaster,2,373,480,373,449,270,0.4,0
-0.6,GasterBlaster,2,0,0,188,176,45,0.4,0
-0,GasterBlaster,2,640,0,453,176,135,0.4,0
-0,GasterBlaster,2,640,480,453,449,225,0.4,0
-0,GasterBlaster,2,0,480,188,449,315,0.4,0
+0.6,GasterBlaster,2,0,0,198,176,47.25,0.4,0
+0,GasterBlaster,2,640,0,443,176,132.75,0.4,0
+0,GasterBlaster,2,640,480,443,449,227.25,0.4,0
+0,GasterBlaster,2,0,480,198,449,312.75,0.4,0
 0,GasterBlaster,2,320,0,320,176,90,0.4,0
 0.6,GasterBlaster,2,0,308,188,308,0,0.4,0
 0,GasterBlaster,2,320,0,320,176,90,0.4,0
