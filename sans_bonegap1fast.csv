@@ -17,7 +17,7 @@
 0,BoneV,503,366,20,2,500,1
 0,SUB,LOOP,$LOOP,1,,,
 0.6,JMPNZ,LOOP1,$LOOP,,,,
-1,SET,LOOP,8,,,,
+1,SET,LOOP,11,,,,
 0,SansSlam,3,,,,,
 0,SansBody,HandUp,,,,,
 0.4,SansAnimation,Idle,,,,,
