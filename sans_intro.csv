@@ -8,7 +8,8 @@
 0,sanshead,BlueEye,,,,,,,
 0,SansBody,HandDown,,,,,,,
 0,SansSlam,1,,,,,,,
-0.2,BoneStab,1,50,0.4,3.2,,,,
+0,BoneStab,3,135,0.2,0.2,,,,
+0.4,BoneStab,1,50,0.4,3.2,,,,
 0,GasterBlaster,0,0,0,188,176,45,0.4,0
 0,GasterBlaster,0,640,0,453,176,135,0.4,0
 0,GasterBlaster,0,640,480,453,449,225,0.4,0
@@ -88,13 +89,13 @@
 0,ADD,X5,$X4,320,,,,,
 0,ADD,Y5,$Y4,308,,,,,
 0,ADD,A2,$A1,180,,,,,
-0,GasterBlaster,0,$X5,$Y5,$X3,$Y3,$A2,0.4,0
+0,GasterBlaster,0,$X5,$Y5,$X3,$Y3,$A2,0,0
 0,SUB,A1,$A1,92.25,,,,,
 0,SUB,LOOP2,$LOOP2,1,,,,,
 0,JMPNZ,LOOP5,$LOOP2,,,,,,
 0,SUB,LOOP1,$LOOP1,1,,,,,
 0.05,JMPNZ,LOOP4,$LOOP1,,,,,,
-1.4,GasterBlaster,2,0,361,188,361,0,0.4,0
+1,GasterBlaster,2,0,361,188,361,0,0.4,0
 0,GasterBlaster,2,268,0,268,176,90,0.4,0
 0,GasterBlaster,2,640,256,453,256,180,0.4,0
 0,GasterBlaster,2,373,480,373,449,270,0.4,0
@@ -108,6 +109,6 @@
 0,GasterBlaster,2,640,308,453,308,180,0.4,0
 0,GasterBlaster,2,320,480,320,449,270,0.4,0
 0,GasterBlaster,2,640,0,453,176,135,0.4,0
-2,sanshead,Default,,,,,,,
+1.8,sanshead,Default,,,,,,,
 0,SansText,here we go.,,,,,,,
 0,EndAttack,,,,,,,,

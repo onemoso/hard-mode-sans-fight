@@ -1,7 +1,7 @@
 ﻿0,CombatZoneResize,238,226,403,391
 0,HeartTeleport,320,308,,
 0,HeartMode,0,,,
-0.6,SET,LOOP,16,,
+0.6,SET,LOOP,20,,
 0,:LOOP1,,,,
 0,RND,BT,4,,
 0,JMPE,BT1,$BT,1,
@@ -34,4 +34,4 @@
 0,BoneStab,$BT,40,0.45,0
 0,SUB,LOOP,$LOOP,1,
 0.8,JMPNZ,LOOP1,$LOOP,,
-0.4,EndAttack,,,,
+0,EndAttack,,,,

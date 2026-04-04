@@ -26,4 +26,4 @@
 0,BoneStab,$BT,35,0.5,0.2
 0,SUB,LOOP,$LOOP,1,
 1,JMPNZ,LOOP1,$LOOP,,
-0.4,EndAttack,,,,
+0.2,EndAttack,,,,

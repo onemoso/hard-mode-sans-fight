@@ -22,4 +22,4 @@
 0,BoneStab,$BT,60,0.65,0.2
 0,SUB,LOOP,$LOOP,1,
 1.2,JMPNZ,LOOP1,$LOOP,,
-0.4,EndAttack,,,,
+0,EndAttack,,,,
