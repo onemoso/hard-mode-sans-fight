@@ -1,7 +1,7 @@
 ﻿0,CombatZoneResize,117,186,522,391,,,,
 0,HeartTeleport,320,308,,,,,,
 0,HeartMode,0,,,,,,,
-0,SET,LOOP2,48,,,,,,
+0,SET,LOOP2,40,,,,,,
 0,:LOOP2,,,,,,,,
 0,SET,LOOP1,4,,,,,,
 0,RND,A1,360,,,,,,
