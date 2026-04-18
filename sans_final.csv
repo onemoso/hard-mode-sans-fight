@@ -1,4 +1,5 @@
-﻿0,GetHP,HP,,,,,,,
+﻿0,DamagePlayer,0,0,,,,,,
+0,GetHP,HP,,,,,,,
 0,SUB,D,91,$HP,,,,,
 0,DamagePlayer,$D,0,,,,,,
 0,DamagePlayer,-99,0,,,,,,
