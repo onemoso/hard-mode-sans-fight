@@ -4,7 +4,7 @@
 0,Sound,flash,,,,,,,
 0,SET,LOOP,7,,,,,,
 0,:LOOP0,,,,,,,,
-0,RND,RA,6,,,,,,
+0,RND,RA,7,,,,,,
 0,BlackScreen,1,,,,,,,
 0,Sound,flash,,,,,,,
 0.2,BlackScreen,0,,,,,,,
