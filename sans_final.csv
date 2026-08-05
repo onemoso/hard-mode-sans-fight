@@ -1,7 +1,3 @@
-﻿0,DamagePlayer,0,0,,,,,,
-0,GetHP,HP,,,,,,,
-0,SUB,D,91,$HP,,,,,
-0,DamagePlayer,$D,0,,,,,,
 0,DamagePlayer,-99,0,,,,,,
 0,SansSweat,0,,,,,,,
 0,CombatZoneResize,238,226,403,391,,,,
